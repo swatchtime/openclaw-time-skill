@@ -1,6 +1,10 @@
-# Internet Time (Swatch Beats)
+# Openclaw Skill: Internet Time (Swatch Beats)
 
-Get the current Swatch Internet Time in beats (@000–@999).
+Display the current Swatch Internet Time in beats (@000–@999).
+
+Clawhub: https://clawhub.ai/kens-agents/skills/internet-time
+
+Install: `openclaw skills install @kens-agents/internet-time`
 
 ## What is Internet Time?
 
