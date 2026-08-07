@@ -1,10 +1,16 @@
-# Openclaw Skill: Internet Time (Swatch Beats)
+# Openclaw Skill: Internet Time
 
 Display the current Swatch Internet Time in beats (@000–@999).
 
 Clawhub: https://clawhub.ai/kens-agents/skills/internet-time
 
 Install: `openclaw skills install @kens-agents/internet-time`
+
+## What is OpenClaw?
+
+OpenClaw is a self-hosted gateway that connects your favorite chat apps — Discord, Google Chat, iMessage, Matrix, Microsoft Teams, Signal, Slack, Telegram, WhatsApp, Zalo, and more via channel plugins — to AI coding agents. You run a single Gateway process on your own machine (or a server), and it becomes the bridge between your messaging apps and an always-available AI assistant. Who is it for? Developers and power users who want a personal AI assistant they can message from anywhere — without giving up control of their data or relying on a hosted service. To install / use this skill you need to have an OpenClaw gateway running. 
+
+More info: https://docs.openclaw.ai
 
 ## What is Internet Time?
 
