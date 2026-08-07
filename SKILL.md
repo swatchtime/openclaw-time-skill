@@ -1,7 +1,7 @@
 ---
 name: internet-time
 description: "Get the current Swatch Internet Time in beats (@000–@999). Use when someone asks 'Internet time', 'Swatch beats', 'What is the beat time?', '/beats', or discusses Swatch time conversion, timezone translation."
-version: 1.0.6
+version: 1.0.7
 homepage: https://github.com/swatchtime
 license: MIT
 required_commands:
@@ -222,7 +222,7 @@ SOFTWARE.
   "name": "Internet Time",
   "category": "lifestyle",
   "description": "Get the current Swatch Internet Time in beats (@000–@999).",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "author": "Ken's Agents",
   "license": "MIT",
   "icon": "🕐",
